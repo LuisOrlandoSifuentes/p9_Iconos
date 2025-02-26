@@ -50,6 +50,11 @@ class MisIconosApp extends StatelessWidget {
                   color: Colors.blue,
                   size: 50,
                 ),
+                Icon(
+                  Icons.podcasts,
+                  color: Colors.red,
+                  size: 50,
+                ),
               ],
             ),
           ],
